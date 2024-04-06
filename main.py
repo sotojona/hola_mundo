@@ -1,1 +1,1 @@
-ECHO est  activado.
+print("Hola Mundo !!")
